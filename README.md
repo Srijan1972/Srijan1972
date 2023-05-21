@@ -6,7 +6,7 @@ I'm a junior at IIT Delhi majoring in Computer Science and Engineering.
 
 - At Carleton University as a Globalink Research Intern with Prof. Gabriel Wainer at the ARSLab.
 
-## 🌱 Currently Learning
+## 🌱 Current Learning
 
 - Compilers and their various optimizations
 - DEVS (Discrete Event System Specification) based simulators
