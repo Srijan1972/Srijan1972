@@ -1,12 +1,12 @@
 # Srijan Gupta
 
-I'm a junior at IIT Delhi majoring in Computer Science and Engineering.
+I'm a junior at [IIT Delhi](http://www.iitd.ac.in/) majoring in Computer Science and Engineering.
 
 ## 🔭 Current Work
 
-- At Carleton University as a Globalink Research Intern with Prof. Gabriel Wainer at the ARSLab.
+- At [Carleton University](https://carleton.ca/) as a Globalink Research Intern with Prof. Gabriel Wainer at the [ARSLab](https://arslab.sce.carleton.ca/).
 
-## 🌱 Currently Learning
+## 🌱 Current Learning
 
 - Compilers and their various optimizations
 - DEVS (Discrete Event System Specification) based simulators
